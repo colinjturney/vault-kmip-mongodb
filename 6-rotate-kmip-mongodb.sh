@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo "Run these steps on the vagrant box"
+# Following https://www.mongodb.com/docs/manual/tutorial/rotate-encryption-key/
+
+echo "Run the steps in this script manually on the vagrant box"
 
 exit 1
 
