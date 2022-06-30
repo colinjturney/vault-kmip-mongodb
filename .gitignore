@@ -1,0 +1,6 @@
+license.hclic
+*pem
+.vagrant
+*pid
+*log
+credential.json
